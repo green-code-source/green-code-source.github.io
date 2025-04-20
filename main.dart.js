@@ -37082,7 +37082,7 @@ A.anc.prototype={
 $1(a){return new A.kC($.Vz(),$.ar())},
 $S:406}
 A.JB.prototype={
-N(a){return new A.yk(B.z5,"ChanTed",A.a7Q(a,!0,t.eC).a,!1,null)}}
+N(a){return new A.yk(B.z5,"Bolo",A.a7Q(a,!0,t.eC).a,!1,null)}}
 A.q1.prototype={
 N(a){var s=null,r=A.P(a)
 return A.t0(A.VW(B.w,0,B.b8,B.Rx),r.ax.k2,A.aGl(A.iD(A.b([A.lD(B.mD,s,s,108),A.hH(s,A.du("Developed for Major-Project CS Branch.It is a Minimal-Chat app where no real authentication is required. And no personal information is be needed or asked from User to provide.Not Even Permissions to files, gallery, call-logs etc.",s,s,s,A.e3(s,s,s,s,s,s,s,s,"Liberation",s,s,36,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.B,s,s,s,s,s,new A.as(60,60,60,60),s,s,s)],t.E),B.ae,B.d4,B.aC)),s)}}
